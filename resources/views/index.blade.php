@@ -31,14 +31,14 @@
       -moz-box-shadow:inset 0px 10px 14px -7px #3e7327;
       -webkit-box-shadow:inset 0px 10px 14px -7px #3e7327;
       box-shadow:inset 0px 10px 14px -7px #3e7327;
-      background-color:#77b55a;
+      background-color:red;
       -moz-border-radius:4px;
       -webkit-border-radius:4px;
       border-radius:4px;
       border:1px solid #4b8f29;
       display:inline-block;
       cursor:pointer;
-      color:#ffffff;
+      color:red;
       font-family:Arial;
       font-size:22px;
       font-weight:bold;
