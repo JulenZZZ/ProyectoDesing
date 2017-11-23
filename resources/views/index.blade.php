@@ -104,7 +104,8 @@
 <!-- carouseeel -->
 <div class="container">
 
-  <iframe id="youtube" width="560" height="315" src="https://www.youtube.com/embed/WFknTS4nhPw?rel=0" frameborder="0" allowfullscreen></iframe>
+  <iframe id="youtube" width="560" height="315" src="https://www.youtube.com/watch?v=irLUImwkKOc" frameborder="0" allowfullscreen></iframe>
+  <iframe id="youtube" width="560" height="315" src="https://www.youtube.com/watch?v=7SIxHpRU8wQ" frameborder="0" allowfullscreen></iframe>
 
   <!-- Wrapper for slides -->
 
